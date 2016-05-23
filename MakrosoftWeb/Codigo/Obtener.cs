@@ -5,7 +5,7 @@ using System.Web;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace WebMakroSoft.Codigo
+namespace MakroSoftWeb.Codigo
 {
     /// <summary>
     /// solo saca los datos de las tablas q se necesitan
