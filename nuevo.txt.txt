@@ -1,1 +1,7 @@
 oscar ortiz
+
+Code Infleunce
+Here is the list of modules licensed in your CodeFluent Entities license. This list includes both the free modules and any add-in you are licensed for:
+Exec Producer, Linq-to-Sql Producer, Non Interactive Compilation, Meta Compiler 64, Entity Framework Importer, VS Modeler, VB.NET Producer, Access Importer, Sql Server Producer, Sql server CE Importer, Meta Compiler 32, Sql Server Importer, Custom Compiler, C# Producer, Portable Modeler, Patch Producer
+CYWQSX-GR9JAB-GMXGAB-3CM9DH-SC3FHQ
+
